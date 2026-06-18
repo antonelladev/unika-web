@@ -32,13 +32,4 @@ Este repositorio contiene los recursos clave del desarrollo, incluyendo:
 
 ---
 
-## 📸 Vista Previa
-
-| Inicio (Hero Section) | Últimos Diseños |
-|---|---|
-| ![Inicio](https://images.unsplash.com/photo-1594552072238-b8a33785b261?q=80&w=400) | ![Diseños](https://images.unsplash.com/photo-1549417229-aa67d3263c09?q=80&w=400) |
-
-*(Nota: Puedes reemplazar estas imágenes de ejemplo por las capturas reales de tu pantalla guardándolas en una carpeta `/images` dentro de tu repositorio)*
-
----
-Desarrollado con ❤️ enfocado en el desarrollo web y diseño UI/UX.
+Desarrollado enfocado en el desarrollo web y diseño UI/UX.
